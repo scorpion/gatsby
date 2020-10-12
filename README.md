@@ -1,1 +1,3 @@
-# sh-wilcox
+# Gatsby Template
+
+<https://www.gatsbyjs.com>
